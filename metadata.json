@@ -1,0 +1,6 @@
+{
+  "name": "Sabores & Delícias",
+  "description": "Uma experiência gastronômica premium com cardápios interativos de pratos feitos gourmet, sobremesas sofisticadas e doces artesanais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
